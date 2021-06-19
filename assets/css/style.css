@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+  /* changing selector into head */
 .head {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+ /* changing selector into head h1 */
 .head h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-    /* changing selector into main-img */
+    /* changing selector to main-img */
 .main-img {
     height: 800px;
     width: 100%;
@@ -59,24 +59,24 @@ p {
     background-size: cover;
     background-position: center;
 }
- /* chaning selector into artical1 */
+ /* changing selector to artical1 */
 .artical1-left {
     float: left;
     margin-right: 25px;
 }
 
- /* chaning selector into artical1 */
+ /* chaning selector to artical2 */
 .artical2-right {
     float: right;
     margin-left: 25px;
 }
-
+ /* chaning selector to .aritical-content */
 .aritical-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* changing selector into aside-main */
+/* changing selector to aside-main */
 .aside-main {
     margin-right: 20px;
     padding: 20px;
@@ -87,56 +87,56 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-    /* changing selector into aside-top */
+    /* changing selector to aside-top */
 .aside-top {
     margin-bottom: 32px;
     color: #ffffff;
 }
-    /* changing selector into aside-medium */
+    /* changing selector to aside-medium */
 .aside-medium {
     margin-bottom: 32px;
     color: #ffffff;
 }
- /* changing selector into aside-bottom */
+ /* changing selector to aside-bottom */
 .aside-bottom {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* changing selector into aside-lead h3 */
+/* changing selector tto aside-top h3 */
 .aside-top h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
- /* changing selector into aside-medium h3 */
+ /* changing selector o aside-medium h3 */
 .aside-medium h3 {
     margin-bottom: 10px;
     text-align: center;
 }
- /* changing selector into aside-bottom h3*/
+ /* changing selector to aside-bottom h3*/
 .aside-bottom h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* changing selector into aside-top img */
+/* changing selector to aside-top img */
 .aside-top img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
- /* changing selector into aside-medium img */
+ /* changing selector to aside-medium img */
 .aside-medium img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
- /* changing selector into aside-bottom img*/
+ /* changing selector to aside-bottom img*/
 .aside-bottom img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
- /* changing selector into artical-1 */
+ /* changing selector to artical-1 */
 .artical-1{
     margin-bottom: 20px;
     padding: 50px;
@@ -145,7 +145,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* changing selector into artical-2 */
+/* changing selector to artical-2 */
 .artical-2 {
     margin-bottom: 20px;
     padding: 50px;
@@ -154,7 +154,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* changing selector into artical-3 */
+/* changing selector to artical-3 */
 .artical-3{
     margin-bottom: 20px;
     padding: 50px;
@@ -163,41 +163,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-    /* changing selector into artical-1 */
+    /* changing selector to artical-1 */
 .artical-1 img {
     max-height: 200px;
 }
-  /* changing selector into artical-1 img */
+  /* changing selector to artical-2 img */
 .artical-2 img {
     max-height: 200px;
 }
-/* changing selector into artical-3 img */
+/* changing selector to artical-3 img */
 .artical-3 img {
     max-height: 200px;
 }
-    /* changing selector into artical-1 h2 */
+    /* changing selector to artical-1 h2 */
 .artical-1 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-  /* changing selector into artical-2 h2 */
+  /* changing selector to artical-2 h2 */
 .artical-2 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* changing selector into artical-3 h3*/
+/* changing selector to artical-3 h3*/
 .artical-3 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* changing selector into foot */
+/* changing selector to foot */
 .foot {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-    /* changing selector into foot */
+    /* changing selector to foot */
 .foot h2 {
     font-size: 20px;
 }
